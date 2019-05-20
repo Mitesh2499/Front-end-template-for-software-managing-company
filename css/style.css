@@ -1,0 +1,257 @@
+/*Photo by NESA by Makers on Unsplash*/
+header
+{
+	height:120vh;
+	background:url("../img/bg/bg3.jpg") no-repeat center center/cover;
+	width: 100%;
+}
+.text-c
+{
+	color: #2070b2;
+}
+nav
+{
+	background:linear-gradient(rgba(255,255,255,.9),rgba(255,250,250,.5));
+	color: #000;
+}
+.gard
+{
+	background:linear-gradient(rgba(255,255,255,.9),rgba(255,250,250,.9));
+}
+
+.para p
+{
+	font-size: 18px;
+}
+
+.input-group-text
+{
+	background: rgb(255,138,138);
+	color: #fff;
+	padding: 1rem;
+
+}
+.input-group-text:hover
+{
+	background: rgb(13,42,67);
+	color: #fff;
+}
+
+.secondnav .nav-item
+{
+	padding-right: 3rem;
+	padding-left: 3rem;
+}
+.secondnav .nav-link
+{
+	color: #000;
+}
+.secondnav
+{
+	padding: 2rem;
+}
+.one
+{
+	color: #000;
+}
+.bg-one
+{
+	height:100vh;
+	background:url("../img/banner/speaker.png") no-repeat center center/cover;
+	width: 100%;
+	
+}
+.bg-two
+{
+	height:100vh;
+	background:url("../img/banner/EW-programme.png") no-repeat center center/cover;
+	width: 100%;
+	
+}
+.bg-three
+{
+	
+	height:100vh;
+	background:url("../img/banner/speaker_cards.png") no-repeat center center/cover;
+	width: 100%;
+	background-position: right top;
+}
+.bg-four
+{
+	
+	height:100vh;
+	background:url("../img/banner/notes.png") no-repeat center center/cover;
+	width: 100%;
+
+}
+.bg-five
+{
+	
+	height:100vh;
+	background:url("../img/banner/cf3.png") no-repeat center center/cover;
+	width: 100%;
+
+}
+.bg-six
+{
+	
+	height:100vh;
+	background:url("../img/banner/dashboard.png") no-repeat center center/cover;
+	width: 100%;
+
+}
+.bg-seven
+{
+	
+	height:100vh;
+	background:url("../img/banner/tasks-1.png") no-repeat center center/cover;
+	width: 100%;
+
+}
+.bg-eight
+{
+	
+	height:100vh;
+	background:url("../img/banner/collaborators-2.png") no-repeat center center/cover;
+	width: 100%;
+
+}
+.bg-nine
+{
+	
+	height:100vh;
+	background:url("../img/banner/speaker_profiles.png") no-repeat center center/cover;
+	width: 100%;
+
+}
+.bg-ten
+{
+	
+	height:100vh;
+	background:url("../img/banner/Comment__-1.png") no-repeat center center/cover;
+	width: 100%;
+
+}
+.bg-ele
+{
+	
+	height:100vh;
+	background:url("../img/banner/collaborators-2.png") no-repeat center center/cover;
+	width: 100%;
+
+}
+
+.bg-grey
+{
+	width: 100%;
+	background:linear-gradient(rgba(0,0,0,.1),rgba(0,0,19,.1));
+}
+.embed-responsive
+{
+	height: 400px;
+}
+.bg-img
+{
+	width: 100%;
+}
+.bg-dark
+{
+	padding: 0;
+	margin: 0;
+}
+.services img
+{
+	width: 80%;
+	height: 100%;
+	padding: 0.5rem;
+	color: #fff;
+
+}
+.card
+{
+	border: 0;
+	border-bottom: 1px solid #fff;
+}
+.card img
+{
+	width: 5rem;
+	height: 5rem;
+}
+.card-body
+{
+	padding: 0.5rem;
+}
+.logo
+{
+	width: 10rem;
+	height: 4rem;
+}
+.mention .input-group .form-control
+{
+	width:50%;
+}
+.social  .fa
+{
+	font-size: 30px;
+	padding-right: 2rem;
+	padding-left: 2rem;
+	color: rgb(255,138,138);
+}
+.logo-color
+{
+	color: rgb(255,138,138);
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255,138,138);
+}
+
+.btn-m
+{
+	background: rgb(255,138,138);
+	color: #fff;
+}
+.navbar-light .navbar-toggler {
+    color: rgb(255,138,138);
+    border-color: rgba(255,138,138,0.5);
+}
+.bg-p
+{
+	color: rgb(255,138,138);
+}
+.box
+{
+	padding-left: 1rem;
+}
+.display-4
+{
+	color:#fff;
+}
+
+.menu-item
+{
+	font-weight: bold;
+	color: #000;
+}
+.active
+{
+	background:rgb(255,138,138);
+	    color: rgba(251, 249, 249, 0.9);
+}
+h1
+{
+	font-family: 'Poppins', sans-serif;
+}
+p
+{
+	
+font-family: 'PT Sans Narrow', sans-serif;
+}
+.text-pink
+{
+	color: #fd9797;
+	text-shadow: #a2a2a2 1px 0 5px;
+}
+.text-p
+{
+	color: #f37878;
+}
